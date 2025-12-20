@@ -19,4 +19,4 @@ SHA256: 2cdcec8a9f0cb6e36337f3ee39d8ad105dc8afa6ba1c02d466e8f5b771f9a162
 
 SHA1: abe01e4aeb033b6c0836819f549c791b26cfde83
 
-The bytes listed in patched_bytes.txt can then be applied to this ROM file.
+The bytes listed in [patched_bytes.txt](patched_bytes.txt) can then be applied to this ROM file.
