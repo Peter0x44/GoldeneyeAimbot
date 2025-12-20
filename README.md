@@ -10,7 +10,7 @@ Adding the auto-fire feature was slightly more complicated. This additional logi
 
 ## Usage
 
-For legal reasons, the modified ROM is not available to download directly.
+For legal reasons, the modified ROM is not available to download directly from this repository.
 
 You must first acquire the original ROM file:
 `GoldenEye 007 (U) [!].z64`
