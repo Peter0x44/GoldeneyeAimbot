@@ -19,4 +19,18 @@ SHA256: 2cdcec8a9f0cb6e36337f3ee39d8ad105dc8afa6ba1c02d466e8f5b771f9a162
 
 SHA1: abe01e4aeb033b6c0836819f549c791b26cfde83
 
-The bytes listed in [patched_bytes.txt](patched_bytes.txt) can then be applied to this ROM file.
+### Applying the Patch
+
+An IPS patch file is provided: [GoldenEyeAimbot.ips](https://github.com/x86matthew/GoldeneyeAimbot/raw/main/GoldenEyeAimbot.ips)
+
+You can apply this patch using [ROM Patcher JS](https://www.marcrobledo.com/RomPatcher.js/)
+
+Select the original ROM and the IPS file
+
+### Patched ROM Hashes
+
+After applying the patch, verify your ROM against these hashes:
+
+SHA256: d54698378dc7c84ff72ce0f38a02c0249d1c65f15e7436525870212527eeb53c
+
+SHA1: 942a5746d3b17441e4a3c236f2549585f3cb9c3d
